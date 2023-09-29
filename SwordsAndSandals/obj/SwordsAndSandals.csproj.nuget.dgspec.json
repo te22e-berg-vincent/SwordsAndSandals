@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj": {}
+    "c:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj": {
+    "c:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj",
+        "projectUniqueName": "c:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj",
         "projectName": "SwordsAndSandals",
-        "projectPath": "C:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj",
+        "projectPath": "c:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\SwordsAndSandals.csproj",
         "packagesPath": "C:\\Users\\vincent.berg2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\obj\\",
+        "outputPath": "c:\\Users\\vincent.berg2\\Documents\\Programerings projekt\\SwordsAndSandals\\SwordsAndSandals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
