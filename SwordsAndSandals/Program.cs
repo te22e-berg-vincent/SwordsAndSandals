@@ -16,7 +16,7 @@ int hhhp = 550;
 int vvhp = 900;
 
 Random rand = new Random();
-int chance = rand.Next(1, 5);
+int chance = rand.Next(1, 4);
 
 Console.WriteLine("Hello Gladiator.");
 Console.WriteLine("Please select your name.");
